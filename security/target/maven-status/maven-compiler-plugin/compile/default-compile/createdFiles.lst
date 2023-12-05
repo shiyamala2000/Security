@@ -1,0 +1,10 @@
+com\kgisl\security\config\SecurityConfig.class
+com\kgisl\security\controller\ProductController.class
+com\kgisl\security\dto\Product.class
+com\kgisl\security\dto\Product$ProductBuilder.class
+com\kgisl\security\SecurityApplication.class
+com\kgisl\security\config\UserInfoUserDetails.class
+com\kgisl\security\service\ProductService.class
+com\kgisl\security\config\UserInfoUserDetailsService.class
+com\kgisl\security\entity\User.class
+com\kgisl\security\repository\UserRepository.class
